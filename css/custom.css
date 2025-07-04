@@ -1,11 +1,11 @@
 /* 设置文字选中时的背景色和文字颜色 */
 ::selection {
-    background: #d686c3;  /* 选中时的背景色 */
-    color: #ffffff;       /* 选中时的文字颜色 */
+/*    background: #d686c3;  /* 选中时的背景色 */
+    color: #d686c3;       /* 选中时的文字颜色 */
 }
 
 /* 兼容 Firefox */
 ::-moz-selection {
-    background: #d686c3;  /* 选中时的背景色 */
-    color: #ffffff;       /* 选中时的文字颜色 */
+/*    background: #d686c3;  /* 选中时的背景色 */
+    color: #d686c3;       /* 选中时的文字颜色 */
 } 
